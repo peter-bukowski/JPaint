@@ -7,3 +7,5 @@ In this project I used the Command, Strategy, Factory Method and Composite patte
 
 
 UML:
+
+
