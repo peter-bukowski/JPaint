@@ -5,7 +5,7 @@ JPaint is a “Microsoft Paint”-like application in Java that allows users to 
 
 
 Design Patterns: 
-In this project I used the Command, Strategy, Factory Method and Composite patterns.
+In this project I used the Command, Strategy, Factory Method and Composite pattern.
 
 Features:
 
